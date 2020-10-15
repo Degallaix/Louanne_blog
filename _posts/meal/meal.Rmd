@@ -1,6 +1,6 @@
 ---
 title: "My English Activity Log : MEAL"
-author:
+author: Louanne Degallaix
   - name: "___" 
 date: "`r Sys.Date()`"
 categories:
@@ -11,3 +11,5 @@ output: distill::distill_article
 
 - Oct. 11th: This week, I watched three Jimmy Fallon's videos. The first one is an interview of Gad Elmaleh. I didn't know he was making shows in America. In the second one Jimmy Fallon makes jokes about political news, covid,... In the last one, he jokes about persons who cough in restaurant, parents who have to help their children with their virtual homework,...
 It was the first time I watched such programs. That makes me laugh. 
+----
+- Oct. 15th : Saturday, I get in touch again with my friend Millya. I met her on holiday 3 years ago. She comes from Russia. She does not speak French and I don’t speak Russian, so we speak English. We don’t take enough news of each other because of the time difference but it is always a pleasure to speak with her. We can talk about everything: series, music, school, difference between Belgium and Russia, … 
