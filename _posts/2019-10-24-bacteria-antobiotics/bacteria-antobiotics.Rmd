@@ -1,4 +1,4 @@
----
+:---
 title: "Bacterium adaptation"
 description: |
   Analysis of "More than 6,000 antibiotic resistance genes discovered in the bacteria that inhabit the human gut"
