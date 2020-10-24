@@ -2,10 +2,11 @@
 title: "Brain polution"
 description: |
   My first analysis about human brain's diseas.
+  
 author:
   - name: Louanne Degallaix
     url: {}
-date: 23-10-2020
+date:
 output:
   distill::distill_article:
     self_contained: false
@@ -17,6 +18,4 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 * Source de l'article: [link](https://www.sciencedaily.com/releases/2020/10/201006153526.htm)
-
-
 
