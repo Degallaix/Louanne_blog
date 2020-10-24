@@ -17,11 +17,13 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
+# Useful informations
+
 * Source de l'article: [link](https://www.sciencedaily.com/releases/2020/10/201006153526.htm)
 
 * Word count: 686 
 
-* Vocabulary
+# Vocabulary
 
 | Word from the text | Synonym/definition in English               | French translation   |
 | ------------------ | ------------------------------------------- | -------------------- |
@@ -35,4 +37,30 @@ knitr::opts_chunk$set(echo = FALSE)
 | Gut wall           | Where the digestion happens in the body     | Paroi intestinale    |
 | Tangles            | Jumble                                      | Enchevêtrement       |
 
+# Analysis about the study
 
+* Researchers ?
+
+Research organizations
+Especially mention in the article : Researchers from Lancaster University including Professor Barbara Maher
+
+* Published in and when? 
+
+Sciencedirect.com (first publish on 16 July 2020, revised on 21 August 2020 and available online on 2 September 2020)
+
+* General topic 
+
+ Link between air pollution and brains diseases like Alzheimer’s, Parkinson’s and MND.
+
+* What was examined ?
+
+The researchers examined the brainstems of young people who were exposed all their life to pollution. 
+The young people came from Mexico and they were between 11 months and 27 years old. 186 people were examining.
+
+* Discovery and conclusion
+
+The scientists found iron, aluminum and titanium nanoparticles in the brainstems. The nanoparticles were associated with marker of Alzheimer’s, Parkinson’s and MND. Another study had already showed that but only for Alzheimer’s. So nanoparticles air-pollution have a bad impact on the brain. The people who are in contact with high pollution present more markers for Parkinson’s, Alzheimer’s and MND. Professor Barbara Maher says that “control of nanoparticulate sources of air pollution becomes critical and urgent” 
+
+* Remaining questions 
+
+Nothing
