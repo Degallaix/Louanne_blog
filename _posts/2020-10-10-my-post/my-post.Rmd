@@ -1,7 +1,7 @@
 ---
 title: "Brain polution"
 description: |
-  My first analysis about human brain's diseas.
+  My first analysis about human brain's diseases.
   
 author:
   - name: Louanne Degallaix
@@ -19,4 +19,19 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * Source de l'article: [link](https://www.sciencedaily.com/releases/2020/10/201006153526.htm)
 
-Essaie
+* Word count: 686 
+
+* Vocabulary
+| Word from the text | Synonym/definition in English               | French translation   |
+| ------------------ | ------------------------------------------- | -------------------- |
+| Harm               | Damage, injury                              | Blessure             |
+| Swallow            | Eat                                         | Avaler               |
+| Cerebellum         | Part of the brain                           | Cervelet             |
+| Substantia nigra   | Part of the brain that control the mobility | Substance noire      |
+| Strikingly         | That you cannot contest                     | Remarquablement      |
+| Braking systems    | Systems used to slow down something         | Système de freinage  |
+| Needle like        | Something very thin and sharp               | En forme d'aiguilles |
+| Gut wall           | Where the digestion happens in the body     | Paroi intestinale    |
+| Tangles            | Jumble                                      | Enchevêtrement       |
+
+

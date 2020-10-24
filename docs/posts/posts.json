@@ -29,7 +29,7 @@
   {
     "path": "posts/2020-10-10-my-post/",
     "title": "Brain polution",
-    "description": "My first analysis about human brain's diseas.",
+    "description": "My first analysis about human brain's diseases.",
     "author": [
       {
         "name": "Louanne Degallaix",
@@ -39,7 +39,7 @@
     "date": "2020-10-24",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-10-24T10:27:10+02:00"
+    "last_modified": "2020-10-24T10:52:35+02:00"
   },
   {
     "path": "posts/2019-10-24-bacteria-antobiotics/",
