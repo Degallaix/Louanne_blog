@@ -1,7 +1,14 @@
 ---
 title: "Louanne's blog"
 site: distill::distill_website
-listing: posts
+listing: 
+  posts:
+    - about
+    
+    - meal
+    
+    - 2020-10-10-my-post
+    
 ---
 
 ```{r, echo = FALSE, eval = FALSE}
