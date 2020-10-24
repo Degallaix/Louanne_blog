@@ -30,7 +30,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | Harm               | Damage, injury                              | Blessure             |
 | Swallow            | Eat                                         | Avaler               |
 | Cerebellum         | Part of the brain                           | Cervelet             |
-| Substantia nigra   | Part of the brain that control the mobility | Substance noire      |
+| Substantia nigra   | Part of the brain that controls the mobility| Substance noire      |
 | Strikingly         | That you cannot contest                     | Remarquablement      |
 | Braking systems    | Systems used to slow down something         | Système de freinage  |
 | Needle like        | Something very thin and sharp               | En forme d'aiguilles |
@@ -59,7 +59,7 @@ The young people came from Mexico and they were between 11 months and 27 years o
 
 * Discovery and conclusion
 
-The scientists found iron, aluminum and titanium nanoparticles in the brainstems. The nanoparticles were associated with marker of Alzheimer’s, Parkinson’s and MND. Another study had already showed that but only for Alzheimer’s. So nanoparticles air-pollution have a bad impact on the brain. The people who are in contact with high pollution present more markers for Parkinson’s, Alzheimer’s and MND. Professor Barbara Maher says that “control of nanoparticulate sources of air pollution becomes critical and urgent” 
+The scientists found iron, aluminum and titanium nanoparticles in the brainstems. The nanoparticles were associated with markers of Alzheimer’s, Parkinson’s and MND. Another study had already showed that but only for Alzheimer’s. So nanoparticles air-pollution have a bad impact on the brain. The people who are in contact with high pollution present more markers for Parkinson’s, Alzheimer’s and MND. Professor Barbara Maher says that “control of nanoparticulate sources of air pollution becomes critical and urgent” 
 
 * Remaining questions 
 
