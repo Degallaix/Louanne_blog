@@ -17,8 +17,8 @@ collections:
       share: [twitter, linkedin, facebook]
       
       disqus : 
-        shortname : louannes-blog
-        hidden : false
+        shortname: louannes-blog
+        hidden: false
 output:
   distill::distill_article:
     css: style.css
