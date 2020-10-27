@@ -15,8 +15,7 @@ base_url: Degallaix.github.io/Louanne_blog/
 collections:
     posts:
       share: [twitter, linkedin, facebook]
-      
-      disqus : 
+      disqus: 
         shortname: louannes-blog
         hidden: false
 output:
