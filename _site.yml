@@ -14,9 +14,11 @@ navbar:
 base_url: Degallaix.github.io/Louanne_blog/
 collections:
     posts:
-      disqus: louannes-blog
       share: [twitter, linkedin, facebook]
-      #disqus: 
+      
+      disqus : 
+        shortname : louannes-blog
+        hidden : false
 output:
   distill::distill_article:
     css: style.css
