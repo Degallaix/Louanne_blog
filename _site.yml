@@ -11,7 +11,7 @@ navbar:
       href: "posts/about/index.html"
     - icon: fab fa-github
       href: https://github.com/Degallaix/Louanne_blog.git
-base_url: Degallaix.github.io/Louanne_blog/
+base_url: http://Degallaix.github.io/Louanne_blog/
 collections:
     posts:
       share: [twitter, linkedin, facebook]
