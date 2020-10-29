@@ -1,7 +1,7 @@
 ---
 title: "Immune system against glioblastoma"
 description: |
-  Scientists fond a new way to treat glioblastoma.
+  My second analysis about human brain's disease.
 author:
   - name: Louanne Degallaix
     url: {}
