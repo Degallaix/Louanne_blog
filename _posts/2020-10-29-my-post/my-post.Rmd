@@ -1,0 +1,65 @@
+---
+title: "Immune system against glioblastoma"
+description: |
+  Scientists fond a new way to treat glioblastoma.
+author:
+  - name: Louanne Degallaix
+    url: {}
+date: 10-29-2020
+preview : Glioblastome.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Useful informations
+
+* Source de l'article: [link](https://www.sciencedaily.com/releases/2020/10/201027105359.htm)
+
+* Word count: 551
+
+* Illustration from Wikipedia : glioblastoma from a 15 years old child.
+
+# Vocabulary
+
+| Word from the text | Synonym/ definition in English     | French translation |
+| ------------------ | ---------------------------------- | ------------------ |
+| Weapon             | Something to kill                  | Arme               |
+| Fueling            | Something bringing help            | Ravitaillement     |
+| Draws              | Catch, attract                     | Attirer            |
+| Release            | To liberate from                   | Libérer            |
+| Triggers           | Something giving a signal of start | Déclenchement      |
+| Crippled           | To bring to a standstill           | Paralysé           |
+
+# Analysis about the study
+
+* Researchers ?
+
+University of Calgary scientists
+Member of the Clark H Smith Brain Tumour Centre at the Arnie Charbonneau Cancer Institute at CSM
+
+
+* Published in and when? 
+
+*Nature Communications*  published on 5 October 2020
+
+* General topic 
+
+ New way to fight glioblastoma: using the immune system. 
+
+* What was examined ?
+
+Scientists make tests on mice and discover that they can use the immune system against glioblastoma. They stop the interleukin 33 before it comes into the nucleus of the cells of the glioblastoma. Then the immune system works against and not with the tumor. They can see the same thing in human brain.
+
+* Discovery and conclusion
+
+ They fond a new way to treat glioblastoma. This new treatment can be reproduced for other cancers. 
+
+* Remaining questions 
+
+Nothing
+
