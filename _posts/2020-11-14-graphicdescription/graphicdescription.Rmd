@@ -1,0 +1,40 @@
+---
+title: "graphic_description"
+description: |
+  Comparisons of weight and height between men and women
+author:
+  - name: Louanne Degallaix
+    url: {}
+date: 11-14-2020
+categories :
+  - "Data Sciences I"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+SciViews::R
+```
+
+```{r}
+data <- read("biometry", package = "BioDataScience")
+```
+
+We want to analyse human biometry to compare men's and women's height and weight. The measurement was produced between 2013 and 2014 on people from different ages. 
+
+```{r}
+a <- chart(data, weight ~ gender %fill=% gender) +
+  geom_boxplot(show.legend = FALSE)
+
+b <- chart(data, height ~ gender %fill=% gender) +
+  geom_boxplot(show.legend = FALSE)
+
+combine_charts(list(a, b))
+```
+
+On the graphic A, we can see that men are heavier than women in general. Indeed 75% women weigh less than about 70 kg in comparison 50% men weigh more than 70kg. 
+
+On the graphic B, we can see that men are taller than women. Indeed 75% women measure less than 170 cm and 75% men measure more than 170cm.
+
