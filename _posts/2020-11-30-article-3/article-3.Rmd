@@ -31,7 +31,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | Word from the text | Synonym/ definition in English | French translation                      |
 | ------------------ | ------------------------------ | --------------------------------------- |
 | Clump              | Group                          | Amas                                    |
-| Tangles            | Jumbles                        | Enchevêtrement                          |
+| Tangles            | Jumbles                        | Enchevêtrements                          |
 | Impairment         | Weakening                      | Affaiblissement, diminution, déficience |
 | Prophylactic       | Preventative                   | Préventif                               |
 | Aim                | Goal                           | But, objectif                           |

@@ -31,5 +31,5 @@ This blog has been created for English and data courses. You can find three sect
 
 -	Data Sciences I. 
 -	English portfolio. It resumes articles about brain diseases. 
--	M.E.A.L. It is a section where I told you what I do to improve my English. 
+-	M.E.A.L. In this section I tell you what I do to improve my English. 
 
