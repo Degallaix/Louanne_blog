@@ -11,10 +11,25 @@ listing:
     
     - 2020-10-29-my-post
     
+    - 2020-11-30-article-3
+    
     - 2020-11-14-graphicdescription
+    
 ---
 
 ```{r, echo = FALSE, eval = FALSE}
 #distill::create_post("my post") # use this fonction to create a new post
 ```
+
+# Welcome to my blog!
+
+!["Human brain illustrated with millions of small nerves" by Ars Electronica is licensed under CC BY-NC-ND 2.0](images/cerveau.jpg) 
+
+Link for the illustration [link](https://search.creativecommons.org/photos/6980f97b-53a0-43ee-9552-3dafda431130)
+
+This blog has been created for English and data courses. You can find three sections.
+
+-	Data Sciences I. 
+-	English portfolio. It resumes articles about brain diseases. 
+-	M.E.A.L. It is a section where I told you what I do to improve my English. 
 

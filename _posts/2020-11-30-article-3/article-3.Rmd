@@ -1,0 +1,66 @@
+---
+title: "Down Syndrome and Alzheimer's disease"
+description: |
+  My third analysis about human brain's disease.
+author:
+  - name: Louanne Degallaix
+    url: {}
+date: 11-30-2020
+categories :
+  - "English Portfolio"
+preview : 21_trisomy_-_Down_syndrome.png
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Useful informations
+
+* Source de l'article: [link](https://www.technologynetworks.com/neuroscience/news/why-do-so-many-people-with-down-syndrome-develop-alzheimers-disease-343113)
+
+* Word count: 583
+
+* Illustration from Wikipedia : karyotype from a boy with Down Syndrome [link](https://fr.wikipedia.org/wiki/Trisomie_21#/media/Fichier:21_trisomy_-_Down_syndrome.png)
+
+# Vocabulary
+
+| Word from the text | Synonym/ definition in English | French translation                      |
+| ------------------ | ------------------------------ | --------------------------------------- |
+| Clump              | Group                          | Amas                                    |
+| Tangles            | Jumbles                        | Enchevêtrement                          |
+| Impairment         | Weakening                      | Affaiblissement, diminution, déficience |
+| Prophylactic       | Preventative                   | Préventif                               |
+| Aim                | Goal                           | But, objectif                           |
+|                    |                                |                                         |
+
+# Analysis about the study
+
+* Researchers ?
+
+L. Lemoine, A. Ledreux, E. J. Mufson, S. E. Perez, G. Simic, E. Doran, I. Lott, S. Carroll, K. Bharani, S. Thomas, A. Gilmore, E. D. Hamlett, A. Nordberg & A. C. Granholm 
+
+* Published in and when? 
+
+*Molecular Neurodegeneration* published on 23 November 2020
+
+* General topic 
+
+People with Down’s syndrome have more chances to develop Alzheimer’s disease. 
+
+* What was examined ?
+
+The study analyzed the distribution and the extent of tau and amyloid in brain. The examined people had Down’s syndrome or not and Alzheimer’s disease or not.
+
+* Discovery and conclusion
+
+ People with Down’s syndrome and Alzheimer disease have more tau in the bran than other people. The distribution of tau is also different. 
+It is necessary to follow the study to understand the working of amyloid plaque and tau in the brain and to improve life quality of people with Down’s syndrome. 
+
+* Remaining questions 
+
+Nothing
+

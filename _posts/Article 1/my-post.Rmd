@@ -7,6 +7,8 @@ author:
   - name: Louanne Degallaix
     url: {}
 date:
+categories :
+  - "English Portfolio"
 output:
   distill::distill_article:
     self_contained: false
