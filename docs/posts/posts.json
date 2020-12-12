@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2020-12-12-article-4/",
+    "title": "Link between Huntington’s diseases-associated mutation and ALS and FTD",
+    "description": "My fourth analysis about human brain's disease.",
+    "author": [
+      {
+        "name": "Louanne Degallaix",
+        "url": {}
+      }
+    ],
+    "date": "2020-12-12",
+    "categories": [
+      "English Portfolio"
+    ],
+    "preview": "posts/2020-12-12-article-4/Neurone Huntington.jpg",
+    "last_modified": "2020-12-12T18:34:33+01:00"
+  },
+  {
     "path": "posts/2020-11-30-article-3/",
     "title": "Down Syndrome and Alzheimer's disease",
     "description": "My third analysis about human brain's disease.",

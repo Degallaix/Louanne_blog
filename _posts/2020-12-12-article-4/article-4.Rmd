@@ -1,0 +1,75 @@
+---
+title: "Link between Huntington’s diseases-associated mutation and ALS and FTD"
+description: |
+  My fourth analysis about human brain's disease.
+author:
+  - name: Louanne Degallaix
+    url: {}
+date: 12-12-2020
+categories :
+  - "English Portfolio"
+preview : Neurone Huntington.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Useful informations
+
+* Source de l'article: [link](https://www.sciencedaily.com/releases/2020/12/201204110241.htm)
+
+* Word count: 548
+
+* Illustration from Wikipedia : A microscope image of a neuron with an inclusion body (stained orange) caused by HD, image width 250 µm [link](https://en.wikipedia.org/wiki/Huntington%27s_disease#/media/File:Neuron_with_mHTT_inclusion_zoomed.jpg)
+
+# Vocabulary
+
+| Word from the text | Synonym/definition in English | French translation                     |
+| ------------------ | ----------------------------- | -------------------------------------- |
+| Target             | Goal, objective               | Cible                                  |
+| To occur           | To happen, to take place      | Se produire                            |
+| Onset              | Beginning, start              | Le début, le commencement              |
+| Screening          | Detection                     | Dépistage                              |
+| Throughout         | All over                      | Partout dans, tout au long de          |
+| Cost-prohibitive   | Extremely expensive           | Un cout prohibitif, un cout exorbitant |
+| Subset             | A group in a bigger group     | Sous-ensemble                          |
+
+# Analysis about the study
+
+* Researchers ?
+
+Researchers from the National Institutes of Health 
+Researchers from the National Institute of Neurological Disorders and Stroke (NINDS) which Sonja Scholz, M.D., Ph.D.
+Researchers from the National Institute on Aging (NIA) which Bryan Traynor, M.D., Ph.D
+
+
+* Published in and when? 
+
+*Sciencedirect.com* on 25 November 2020
+
+* General topic 
+
+They found a link between Huntington’s disease-associated mutation and two other pathologies of the nervous system. These two pathologies are amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD). 
+
+* What was examined ?
+
+The researchers compare the whole genome of patients with FTD or ALS with healthy people. 
+
+* Discovery and conclusion
+
+The researchers found genetic markers for FTD/ALS which are the same as huntingtin mutation. Huntingtin mutation is an anormal repeated blocs of DNA. An anormal repeated blocs of DNA can cause neurological diseases. Huntingtin mutation is normally associated to Huntington disease. So, the study shows that patient with huntingtin mutation can have symptoms of Huntington and also FTD or ALS. 
+
+* Remaining questions 
+
+1)    Genomic can be used to show the molecular reasons of neurodegenerative diseases. 
+
+2)    The study may lead to a new diagnostic and a new treatment for FTD and ALS. It also may lead to personalized medicine. At the moment patients are diagnosed with their symptoms but the diagnostics is not 100 % available. The entire sequencing genome will do a better diagnostic.
+
+
+
+
+
