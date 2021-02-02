@@ -40,9 +40,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * Researchers?
 
-- Researchers from Japan from the University of Tsukuba
-- Lead author of the study : Hikaru Koizumi
-- Professor Hideaki Soya
+Researchers from Japan from the University of Tsukuba
+
+Lead author of the study : Hikaru Koizumi
+
+Professor Hideaki Soya
 
 * Published in and when?
 
@@ -58,8 +60,9 @@ Researchers experimented on mice. The mice had to do low-intensity exercises. Th
 
 * Discovery and conclusions 
 
-- Doing mild exercises during a determined postnatal period can decrease risks to develop schizophrenia. 
-- That may improve the life of people who have genetic predisposition for schizophrenia. 
+1)    Doing mild exercises during a determined postnatal period can decrease risks to develop schizophrenia. 
+
+2)    That may improve the life of people who have genetic predisposition for schizophrenia. 
 
 * Remaining questions
 
