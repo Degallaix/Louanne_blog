@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2021-02-02-article-5/",
+    "title": "Schizophrenia and low-intensity exercises",
+    "description": "My fifth analysis about human brain's disease.",
+    "author": [
+      {
+        "name": "Louanne Degallaix",
+        "url": {}
+      }
+    ],
+    "date": "2021-02-02",
+    "categories": [
+      "English Portfolio"
+    ],
+    "preview": "posts/2021-02-02-article-5/schizophrenia.jpg",
+    "last_modified": "2021-02-02T18:37:18+01:00"
+  },
+  {
     "path": "posts/2020-12-12-article-4/",
     "title": "Link between Huntington’s diseases-associated mutation and ALS and FTD",
     "description": "My fourth analysis about human brain's disease.",

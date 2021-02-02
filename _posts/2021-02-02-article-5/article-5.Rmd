@@ -1,0 +1,66 @@
+---
+title: "Schizophrenia and low-intensity exercises"
+description: |
+  My fifth analysis about human brain's disease.
+author:
+  - name: Louanne Degallaix
+    url: {}
+date: 02-02-2021
+categories :
+  - "English Portfolio"
+preview : schizophrenia.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Useful informations
+
+* Source de l'article: [link](https://www.sciencedaily.com/releases/2020/12/201216094645.htm)
+
+* Word count: 483
+
+* Illustration : "Schizophrenia" by National Institutes of Health (NIH) [link](https://search.creativecommons.org/photos/bbbbe93b-2912-47db-884a-1e1b2b29359f)
+
+# Vocabulary
+
+| Word from the text | Synonym / definition in English       | French translation |
+| ------------------ | ------------------------------------- | ------------------ |
+| Onset              | Beginning                             | Début              |
+| Underlying         | Hidden                                | Sous-jacent        |
+| Treadmill          | Device for running indoors            | Tapis de course    |
+| Mild               | Light                                 | Faible, léger      |
+| Inheritance        | Something that comes from your family | Héritage           |
+
+#Analysis about the study
+
+* Researchers?
+
+- Researchers from Japan from the University of Tsukuba
+- Lead author of the study : Hikaru Koizumi
+- Professor Hideaki Soya
+
+* Published in and when?
+
+Sciencedirect.com (Received 9 October 2020, Accepted 9 November 2020, Available online 20 November 2020.)
+
+* General topic
+
+Researchers have found a link between Schizophrenia and doing low-intensity exercise. 
+
+* What was examined?
+
+Researchers experimented on mice. The mice had to do low-intensity exercises. Then the researchers tested the behavior and the neurological function in the mice. 
+
+* Discovery and conclusions 
+
+- Doing mild exercises during a determined postnatal period can decrease risks to develop schizophrenia. 
+- That may improve the life of people who have genetic predisposition for schizophrenia. 
+
+* Remaining questions
+
+Nothing
