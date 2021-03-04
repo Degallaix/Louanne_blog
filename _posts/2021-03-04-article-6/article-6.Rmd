@@ -1,0 +1,68 @@
+---
+title: "Childhood ADHD increases risk of developing schizophrenia or other psychotic disorders"
+description: |
+  My sixth analysis about human brain diseases. 
+author:
+  - name: Louanne Degallaix
+    url: {}
+date: 03-04-2021
+categories :
+  - "English Portfolio"
+preview : MR ADHD.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Useful informations
+
+* Source de l'article: [link](https://www.forbes.com/sites/anuradhavaranasi/2021/02/28/childhood-adhd-increases-risk-of-developing-schizophrenia-or-other-psychotic-disorders/?sh=2631fa837428)
+
+* Word count: 540
+
+* Illustration "Mr. ADHD by Roger Hargreaves" by dullhunk [link](https://search.creativecommons.org/photos/8864f494-a98e-4cec-9095-2d2daea50d4f)
+
+# Vocabulary
+
+| Word from the text | Synonym / definition in English | French translation                |
+| ------------------ | ------------------------------- | --------------------------------- |
+| To lack            | To miss                         | Manquer de                        |
+| Fidgeting          | To be unable to stay quiet      | Ne pas tenir en place, être agité |
+| Relative           | Family member                   | Membres de la famille             |
+| To underlie        | To imply                        | Sous-entendre                     |
+| Follow-up          | Aftercare                       | Un suivi médical                  |
+| Onset              | Beginning                       | Début                             |
+
+# Analysis about the study
+
+* Researchers ?
+
+Main author: Mikaïl Nourredine 
+
+* Published in and when? 
+
+*JAMA Psychiatry* (accepted for publication on December 22 2020, published online on February 24, 2021)
+
+* General topic . 
+
+A child with ADHD has more probability to develop psychotic diseases like schizophrenia. 
+
+* What was examined ?
+
+They analyzed outcomes of 12 studies (1.8 million participants) to evaluate the link between ADHD with young people (<18) and the probability that they have PD in the future.
+For this study, they compare two groups, one with ADHD and one control group without ADHD. 
+
+
+* Discovery and conclusion
+
+They found that children with ADHD may develop PS easier than the other ones. It is probably due to genetic, to environmental factors or to prenatal factors. Medication and psychotherapy are used to treat PS. It is important to discover the disease to treat it as soon as possible. 
+
+* Remaining questions 
+
+Nothing
+
+
