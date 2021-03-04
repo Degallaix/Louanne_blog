@@ -2,7 +2,7 @@
   {
     "path": "posts/2021-03-04-article-6/",
     "title": "Childhood ADHD increases risk of developing schizophrenia or other psychotic disorders",
-    "description": "My sixth analysis about human brain diseases.",
+    "description": "My sixth analysis about human brain's diseases.",
     "author": [
       {
         "name": "Louanne Degallaix",
@@ -14,12 +14,12 @@
       "English Portfolio"
     ],
     "preview": "posts/2021-03-04-article-6/MR ADHD.jpg",
-    "last_modified": "2021-03-04T20:05:22+01:00"
+    "last_modified": "2021-03-04T20:10:23+01:00"
   },
   {
     "path": "posts/2021-02-02-article-5/",
     "title": "Schizophrenia and low-intensity exercises",
-    "description": "My fifth analysis about human brain's disease.",
+    "description": "My fifth analysis about human brain's diseases.",
     "author": [
       {
         "name": "Louanne Degallaix",
@@ -31,12 +31,12 @@
       "English Portfolio"
     ],
     "preview": "posts/2021-02-02-article-5/schizophrenia.jpg",
-    "last_modified": "2021-02-02T18:44:52+01:00"
+    "last_modified": "2021-03-04T20:10:50+01:00"
   },
   {
     "path": "posts/2020-12-12-article-4/",
     "title": "Link between Huntington’s diseases-associated mutation and ALS and FTD",
-    "description": "My fourth analysis about human brain's disease.",
+    "description": "My fourth analysis about human brain's diseases.",
     "author": [
       {
         "name": "Louanne Degallaix",
@@ -48,12 +48,12 @@
       "English Portfolio"
     ],
     "preview": "posts/2020-12-12-article-4/Neurone Huntington.jpg",
-    "last_modified": "2020-12-12T18:34:33+01:00"
+    "last_modified": "2021-03-04T20:10:43+01:00"
   },
   {
     "path": "posts/2020-11-30-article-3/",
     "title": "Down Syndrome and Alzheimer's disease",
-    "description": "My third analysis about human brain's disease.",
+    "description": "My third analysis about human brain's diseases.",
     "author": [
       {
         "name": "Louanne Degallaix",
@@ -65,7 +65,7 @@
       "English Portfolio"
     ],
     "preview": "posts/2020-11-30-article-3/21_trisomy_-_Down_syndrome.png",
-    "last_modified": "2020-12-14T11:53:30+01:00",
+    "last_modified": "2021-03-04T20:10:36+01:00",
     "preview_width": 718,
     "preview_height": 444
   },
@@ -125,7 +125,7 @@
   {
     "path": "posts/2020-10-29-my-post/",
     "title": "Immune system against glioblastoma",
-    "description": "My second analysis about human brain's disease.",
+    "description": "My second analysis about human brain's diseases.",
     "author": [
       {
         "name": "Louanne Degallaix",
@@ -137,7 +137,7 @@
       "English Portfolio"
     ],
     "preview": "posts/2020-10-29-my-post/Glioblastome.jpg",
-    "last_modified": "2020-11-30T19:52:14+01:00"
+    "last_modified": "2021-03-04T20:11:13+01:00"
   },
   {
     "path": "posts/2019-10-25-biggest-rodent/",

@@ -1,7 +1,7 @@
 ---
 title: "Down Syndrome and Alzheimer's disease"
 description: |
-  My third analysis about human brain's disease.
+  My third analysis about human brain's diseases.
 author:
   - name: Louanne Degallaix
     url: {}

@@ -1,7 +1,7 @@
 ---
 title: "Immune system against glioblastoma"
 description: |
-  My second analysis about human brain's disease.
+  My second analysis about human brain's diseases.
 author:
   - name: Louanne Degallaix
     url: {}
