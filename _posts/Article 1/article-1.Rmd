@@ -6,7 +6,7 @@ description: |
 author:
   - name: Louanne Degallaix
     url: {}
-date:
+date: 10-10-2020
 categories :
   - "English Portfolio"
 output:
@@ -52,7 +52,7 @@ Sciencedirect.com (first publish on 16 July 2020, revised on 21 August 2020 and 
 
 * General topic 
 
- Link between air pollution and brains diseases like Alzheimer’s, Parkinson’s and MND.
+Link between air pollution and brains diseases like Alzheimer’s, Parkinson’s and MND.
 
 * What was examined ?
 

@@ -1,0 +1,69 @@
+---
+title: "Study identifies key gene associated with age-related brain deterioration"
+description: |
+  My seventh analysis about human brain's diseases.
+author:
+  - name: Louanne Degallaix
+    url: {}
+date: 03-12-2021
+categories :
+  - "English Portfolio"
+preview : DNA.png
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Useful informations
+
+* Source de l'article: [link](https://www.news-medical.net/news/20210310/Study-identifies-key-gene-associated-with-age-related-brain-deterioration.aspx)
+
+* Word count: 723
+
+* Illustration from Wikipedia : DNA [link](https://fr.wikipedia.org/wiki/Acide_d%C3%A9soxyribonucl%C3%A9ique#/media/Fichier:Benzopyrene_DNA_adduct_1JDG.png)
+
+# Vocabulary
+
+| Word from the text | Synonym/definition in English | French translation                  |
+| ------------------ | ----------------------------- | ----------------------------------- |
+| To lie behind      | To be the reason of           | être à l'origine de                 |
+| Feature            | Characteristic                | Particularité                       |
+| Stem cell          | Original cell                 | Cellule souche                      |
+| To uncover         | To discover                   | Découvrir                           |
+| To unravel         | To solve                      | Résoudre                            |
+| To pave the way    | To be the first to do         | Ouvrir la voie à, être le premier à |
+| To aim             | To choose a target            | Viser                               |
+| MS                 | Multiple sclerosis            | Sclérose en plaques                 |
+| To shed light on   | To make brighter              | éclairer                            |
+
+# Analysis about the study
+
+* Researchers ?
+
+Andrea D. Rivera, Francesca Pieropan, Irene Chacon-De-La-Rocha, Davide Lecca, Maria P. Abbracchio, Kasum Azim, Arthur M. Butt
+
+* Published in and when? 
+
+ *Aging cell* (first published in 5 March 2021)
+
+* General topic 
+
+Myelin is damaged when you get old. In this study, scientists have found one reason of these deterioration:  an oligodendrocyte in an aged brain does not work as well as an oligodendrocyte in a young brain. It is due to a gene damaged by ageing. 
+
+* What was examined ?
+
+They had examined the brain of a young mouse and the brain of an old mouse to see which mechanisms are damaged by ageing. 
+
+* Discovery and conclusion
+
+GRP17, a gene linked with the oligodendrocyte precursor, suffers damage over time. 
+
+* Remaining questions 
+
+This study may be a step to find a treatment against MS.
+
+
