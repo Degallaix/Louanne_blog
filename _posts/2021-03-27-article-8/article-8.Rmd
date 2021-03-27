@@ -1,0 +1,64 @@
+---
+title: "Ultrasound in the treatment of brain diseases"
+description: |
+  My eighth analysis about human brain's diseases.
+author:
+  - name: Louanne Degallaix
+    url: {}
+date: 03-27-2021
+categories :
+  - "English Portfolio"
+preview : brain-article8.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Useful informations
+
+* Source de l'article: [link](https://www.sciencedaily.com/releases/2021/02/210204144000.htm)
+
+* Word count: 693
+
+* Illustration "Brains" by hey Paul Studios :  [link](https://search.creativecommons.org/photos/63de05fd-a619-477b-b87d-d9a113f88de3)
+
+# Vocabulary
+
+| Word from the text                    | Synonym/definition in English    | French translation                       |
+| ------------------------------------- | -------------------------------- | ---------------------------------------- |
+| To be on the brink of doing something | To be just about to do something | être sur le point de faire quelque chose |
+| Genuine                               | Real                             | Véritable                                |
+| Side effects                          | Secondary effects                | Effets secondaires                       |
+| Sustained                             | Steady                           | Prolongé                                 |
+| Skull                                 | Head bone                        | Crane                                    |
+
+# Analysis about the study
+
+* Researchers ?
+
+Roland Beisteiner, Andres M. Lozano
+
+* Published in and when? 
+
+*Advanced science * published on 27 October 2020
+
+* General topic 
+
+There is a new way to treat neurological diseases like Alzheimer’s, Parkinson’s,… : ultrasound. 
+
+* What was examined ?
+
+The researchers had examined the results of patients submitted at TPS. The results show that ultrasound can be a new way to treat brain diseases (for Alzheimer’s it is sure). That treatment has lot of advantages: no side effects, less invasive,..
+
+* Discovery and conclusion
+
+Ultrasound can be a new treatment for several diseases. 
+
+* Remaining questions 
+
+Nothing
+
