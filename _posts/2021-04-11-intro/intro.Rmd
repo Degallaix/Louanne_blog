@@ -1,0 +1,34 @@
+---
+title: "Let’s talk about brain disease…"
+description: |
+  Introduction.
+author:
+  - name: Louanne Degallaix
+    url: {}
+date: 04-11-2021
+categories :
+  - "English Portfolio"
+preview : intro.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+The brain is a very complex organ. It has several biological functions – unconscious functions such as heartbeat, secretion of hormones but also coordination of movements, mental functions. It enables us to think, to move, to learn, to feel, to communicate, … You can compare the brain to a leader of an orchestra. When you have a problem, it finds a solution but when it has a problem…what is the solution? 
+
+!["child Head" by charlywkarl is licensed under CC BY-ND 2.0 ](intro2.jpg)
+
+You probably have an acquaintance affected by a brain disease (Alzheimer’s, Parkinson’s, brain cancer, schizophrenia, …). You cannot always realize there are ill, but all these diseases destroy people’s life. The sick person can suddenly go mad, forgot everything even his identity, suffer torture or be misfit to social life. At the moment, scientist do not exactly know the causes of these diseases. They carry out research into the effects of several treatments. They hope to find a remedy for all these diseases and in that way improve the sick people’s life. 
+
+I am deeply convinced that brain research can really help the humanity. Furthermore, brain fascinates me. It is very mysterious for ordinary mortal. Scientists in the world frequently make discoveries. Therefore I choose “brain diseases”.  
+
+*Why does it fascinate me? *
+
+The complexity and the mystery. For example, when an [old ballerina touched by Alzheimer’s listens to music](Ballerina with Alzheimer’s Gets Back Memory of Her Swan Lake Dance Routine - YouTube), she remembers the choreography that she did a lot. Scientists know that music boosts the brain, but they do not know how. I find the brain capacity wonderful. 
+
+!["Balerina" by Francis Vallance (Heritage Warrior) is licensed under CC BY 2.0 ](intro3.jpg)
+
