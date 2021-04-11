@@ -9,6 +9,26 @@ navbar:
       href: "posts/meal/index.html"
     - text: "About Me"
       href: "posts/about/index.html"
+    - text: "English portfolio"
+      menu:
+        - text: "Introduction"
+          href: "posts/2021-04-11-intro/index.html"
+        - text: "Analysis 1"
+          href: "posts/Article 1/index.html"
+        - text: "Analysis 2"
+          href: "posts/2020-10-29-article-2/index.html"
+        - text: "Analysis 3"
+          href: "posts/2020-11-30-article-3/index.html"
+        - text: "Analysis 4"
+          href: "posts/2020-12-12-article-4/index.html"
+        - text: "Analysis 5"
+          href: "posts/2021-02-02-article-5/index.html"
+        - text: "Analysis 6"
+          href: "posts/2021-03-04-article-6/index.html"
+        - text: "Analysis 7"
+          href: "posts/2021-03-12-article-7/index.html"
+        - text: "Analysis 8"
+          href: "posts/2021-03-27-article-8/index.html"
     - icon: fab fa-github
       href: https://github.com/Degallaix/Louanne_blog.git
 base_url: http://Degallaix.github.io/Louanne_blog/
