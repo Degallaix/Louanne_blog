@@ -1,0 +1,33 @@
+---
+title: "Bibliography"
+author:
+  - name: Louanne Degallaix
+    url: {}
+date: 04-14-2021
+categories :
+  - "English Portfolio"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+* Lancaster University. (October 6, 2020). *Evidence of Alzheimer’s, Parkinson’s and MND in brains of young people exposed to dirty ai*. Last consultation: April 14 2021. [URL](https://www.sciencedaily.com/releases/2020/10/201006153526.htm)
+
+* University of Calagary. (October 27, 2020). *New tactic to stop the growth of a deadly brain cancer*. Last consultation: April 14, 2021. [URL](https://www.sciencedaily.com/releases/2020/10/201027105359.htm)
+
+* Neuroscience News & Research. (November 23, 2020). *Why Do So Many People With Down Syndrome Develop Alzheimer’s Disease?*. Last consultation: April 14, 2021. [URL] (https://www.technologynetworks.com/neuroscience/news/why-do-so-many-people-with-down-syndrome-develop-alzheimers-disease-343113)
+
+* National Institute of Neurological Disorders and Stroke. (December 4, 2020). *Researchers link cases of ALS and FTD to a Huntington’s disease-associated mutation*. Last consultation: April 14, 2021. [URL](https://www.sciencedaily.com/releases/2020/12/201204110241.htm)
+
+* University of Tsukuba. (December 16, 2020). *Low-intensity exercise during adolescence may cut schizophrenia risk*. Last consultation: April 14, 2021. [URL](https://www.sciencedaily.com/releases/2020/12/201216094645.htm)
+
+* Anuradha Varanasi. (February 28, 2021). *Childhood ADHD Increases Risk Of Developing Schizophrenia Or Other Psychotic Disorders*. Last consultation: April 14, 2021. [URL](https://www.forbes.com/sites/anuradhavaranasi/2021/02/28/childhood-adhd-increases-risk-of-developing-schizophrenia-or-other-psychotic-disorders/?sh=2631fa837428)
+
+* Emily Henderson. (March 10, 2021). *Study identifies key gene associated with age-related brain deterioration*. Last consultation: April 14, 2021. [URL](https://www.news-medical.net/news/20210310/Study-identifies-key-gene-associated-with-age-related-brain-deterioration.aspx)
+
+* Medical University of Vienna. (February 4, 2021). *Ultrasound in the treatment of brain diseases*. Last consultation: April 4, 2021. [URL](https://www.sciencedaily.com/releases/2021/02/210204144000.htm)
+

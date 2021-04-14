@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2021-04-14-bibliographie/",
+    "title": "Bibliography",
+    "description": {},
+    "author": [
+      {
+        "name": "Louanne Degallaix",
+        "url": {}
+      }
+    ],
+    "date": "2021-04-14",
+    "categories": [
+      "English Portfolio"
+    ],
+    "preview": {},
+    "last_modified": "2021-04-14T20:09:13+02:00"
+  },
+  {
     "path": "posts/2021-04-14-conclusion/",
     "title": "The end...",
     "description": "Conclusion.",
