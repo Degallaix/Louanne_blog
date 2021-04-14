@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * University of Calagary. (October 27, 2020). *New tactic to stop the growth of a deadly brain cancer*. Last consultation: April 14, 2021. [URL](https://www.sciencedaily.com/releases/2020/10/201027105359.htm)
 
-* Neuroscience News & Research. (November 23, 2020). *Why Do So Many People With Down Syndrome Develop Alzheimer’s Disease?*. Last consultation: April 14, 2021. [URL] (https://www.technologynetworks.com/neuroscience/news/why-do-so-many-people-with-down-syndrome-develop-alzheimers-disease-343113)
+* Neuroscience News & Research. (November 23, 2020). *Why Do So Many People With Down Syndrome Develop Alzheimer’s Disease?*. Last consultation: April 14, 2021. [URL](https://www.technologynetworks.com/neuroscience/news/why-do-so-many-people-with-down-syndrome-develop-alzheimers-disease-343113)
 
 * National Institute of Neurological Disorders and Stroke. (December 4, 2020). *Researchers link cases of ALS and FTD to a Huntington’s disease-associated mutation*. Last consultation: April 14, 2021. [URL](https://www.sciencedaily.com/releases/2020/12/201204110241.htm)
 
