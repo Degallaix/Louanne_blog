@@ -18,6 +18,8 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+Illustration : "Healthy Brain and Severe AD Brain" by National Institutes of Health (NIH) is marked with CC PDM 1.0 
+
 The brain is a very complex organ. It has several biological functions – unconscious functions such as heartbeat, secretion of hormones but also coordination of movements, mental functions. It enables us to think, to move, to learn, to feel, to communicate, … You can compare the brain to a leader of an orchestra. When you have a problem, it finds a solution but when it has a problem…what is the solution? 
 
 !["child Head" by charlywkarl is licensed under CC BY-ND 2.0 ](intro2.jpg)

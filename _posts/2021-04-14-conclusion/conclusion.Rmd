@@ -1,0 +1,34 @@
+---
+title: "The end..."
+description: |
+  Conclusion.
+author:
+  - name: Louanne Degallaix
+    url: {}
+date: 04-14-2021
+categories :
+  - "English Portfolio"
+preview : Conclusion.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Illustration : "NPC Brain" by National Institutes of Health (NIH) is marked with CC PDM 1.0 
+
+Neurological science is a large and complex subject. When I had to find articles, it was not difficult. The difficulty was the choice. 
+
+In general, I do not read scientific magazines. I prefer reading other types of books. That allows me to take my mind off things. Thanks to the portfolio I have discovered that those magazines can be interesting too. 
+
+!["Magazine on a Table" by Monica's Dad is licensed under CC BY 2.0 ](mag.jpg)
+
+*What do I learn about brain diseases?*
+
+I have learnt that the origins of brain diseases can be genetic, protein production, pollution. You can also catch a brain disease if you do no sport. I have also discovered some new treatments like using the immune system or ultrasound.
+
+In my opinion the most impressive article was “New tactic to stop the growth of a deadly brain cancer”. It gives hope for future not invasive treatments even for other cancers. It demonstrates that the body has more capacities than we thought. Each discovery brings for a change for the better in people’s health.
+

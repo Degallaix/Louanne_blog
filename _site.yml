@@ -29,6 +29,8 @@ navbar:
           href: "posts/2021-03-12-article-7/index.html"
         - text: "Analysis 8"
           href: "posts/2021-03-27-article-8/index.html"
+        - text: "Conclusion"
+          href: "posts/2021-04-14-conclusion/index.html"
     - icon: fab fa-github
       href: https://github.com/Degallaix/Louanne_blog.git
 base_url: http://Degallaix.github.io/Louanne_blog/
