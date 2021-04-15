@@ -18,7 +18,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-# Useful informations
+# Useful information
 
 * Source de l'article: [link](https://www.technologynetworks.com/neuroscience/news/why-do-so-many-people-with-down-syndrome-develop-alzheimers-disease-343113)
 
